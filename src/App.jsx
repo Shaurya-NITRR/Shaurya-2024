@@ -9,6 +9,7 @@ import { Team } from './pages/Team';
 import  Event  from './pages/Event';
 import Navbar from './pages/Navbar';
 import Footer from './pages/Footer';
+import Contact from './pages/contact';
 
 function App() {
 
@@ -49,6 +50,7 @@ function App() {
             <Route path="/about" element={<About />} />
             <Route path="/events" element={<Event />} />
             <Route path="/team" element={<Team />} />
+            <Route path='/contact' element={<Contact/>}/>
           </Routes>
         </main>
         <Footer/>
