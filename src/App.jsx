@@ -3,12 +3,16 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import PreLoader from './components/preLoader/preloader';
 import LoadingSpinner from './components/LoadingSpinner/loadingspinner';
 
+
+import StarFieldAnimation from "./layout/StarFieldAnimation";
+
 import { About } from './pages/About';
 import { Home } from './pages/Home';
-import { Team } from './pages/Team';
+import { TeamPage } from './pages/TeamPage';
 import  Event  from './pages/Event';
 import Navbar from './pages/Navbar';
 import Footer from './pages/Footer';
+
 
 function App() {
 
@@ -34,7 +38,7 @@ function App() {
         }, 3000);
     }
   }, []);
-
+  
   return (
     <Router>
       {
@@ -48,7 +52,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/events" element={<Event />} />
-            <Route path="/team" element={<Team />} />
+            <Route path="/teampage" element={<TeamPage />} />
           </Routes>
         </main>
         <Footer/>
