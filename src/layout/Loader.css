@@ -1,0 +1,32 @@
+/* CSS for the backdrop */
+
+.backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url("../assets/images/homebg.webp");
+    background-color: rgba(0, 0, 0, 0.5); 
+    z-index: 1000; /* Set the z-index to a high value to make it appear on top of other elements */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* CSS for the loading spinner */
+  .spinner {
+    border: 4px solid rgba(255, 255, 255, 0.3); /* Semi-transparent white border */
+    border-top: 4px solid #3498db; /* Blue border for the spinner */
+    border-radius: 50%; /* Make it a circle */
+    width: 50px;
+    height: 50px;
+    animation: spin 2s linear infinite; /* Apply a simple rotation animation */
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  
