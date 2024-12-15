@@ -6,7 +6,7 @@ export const executivesList = [
         },
         {
           id: "2",
-          Name: "Prince Kumar",
+          Name: "Prince Kumar1",
           Domain: "Web Development"
         },
         {
