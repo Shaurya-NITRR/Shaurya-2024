@@ -26,7 +26,7 @@ const Team = () => {
       <Title color={"OVERALL"} noncolor={"COORDINATORS"} />
       <div className={styles.OverallHeadSection}>
         {coordinatorsList.map((heads) => {
-          if (heads.id <= 4) {
+          if (heads.id <= 6) {
             return (
               <OCCard
                 key={heads.id}
@@ -44,7 +44,7 @@ const Team = () => {
       <Title color={"HEAD"} noncolor={"COORDINATORS"} />
       <div className={styles.HeadSection}>
         {coordinatorsList.map((heads) => {
-          if (heads.id > 4) {
+          if (heads.id > 6) {
             return (
               <HeadCard
                 key={heads.id}
@@ -84,9 +84,9 @@ const Team = () => {
         })}
       </div>
       <Title color={"EXECUTIVES"} noncolor={""} />
-      <Domain name1={"Event Management"} name2={"Media And Public Relation"} name3={"Sponsorship"}/>
-      <Domain name1={"Design And Editing"} name2={"Vigyaan"} name3={"Tech"}/>
-      <Domain name1={"Documentation"}/>
+      <Domain name1={"Design"} name2={"PR and Marketing"} name3={"Sponsorship"}/>
+      <Domain  name2={"Video Editing and Cinematography"} name3={"Web Development"}/>
+      <Domain name1={"Sports Coordinator"} name2={"Event Management"} name3={"Documentation"}/>
     </div>
   );
 };

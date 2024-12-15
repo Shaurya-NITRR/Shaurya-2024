@@ -1,328 +1,669 @@
 export const executivesList = [
         {
           id: "1",
-          Name: "Sneha Tawania",
-          Domain: "Media And Public Relation"
+          Name: "Ujjwal Tamboli",
+          Domain: "Web Development"
         },
         {
           id: "2",
-          Name: "Chirag Ruchandani",
-          Domain: "Media And Public Relation"
+          Name: "Prince Kumar",
+          Domain: "Web Development"
         },
         {
           id: "3",
-          Name: "Priyesh Tiwari",
-          Domain: "Media And Public Relation"
+          Name: "Anushka Singhote",
+          Domain: "Web Development"
         },
         {
           id: "4",
-          Name: "Shreya Tripathi",
-          Domain: "Media And Public Relation"
+          Name: "Ankit Singh",
+          Domain: "Web Development"
         },
         {
           id: "5",
-          Name: "Megha Rathi",
-          Domain: "Media And Public Relation"
+          Name: "Yashowardhan Singh",
+          Domain: "Web Development"
         },
         {
           id: "6",
-          Name: "Shreya Parira",
-          Domain: "Media And Public Relation"
+          Name: "Anupam Poddar",
+          Domain: "Web Development"
         },
         {
           id: "7",
-          Name: "Nimesh Kumar Kashyap",
-          Domain: "Media And Public Relation"
+          Name: "Keshaw Sahu",
+          Domain: "Event Management"
         },
         {
           id: "8",
-          Name: "Deedhit Parihar",
-          Domain: "Media And Public Relation"
+          Name: "Priyanshu Patle",
+          Domain: "Sports Coordinator"
         },
         {
           id: "9",
-          Name: "Saumya Shrivastava",
-          Domain: "Media And Public Relation"
+          Name: "Shruti",
+          Domain: "Design"
         },
         {
           id: "10",
-          Name: "Pritish Barupal",
-          Domain: "Media And Public Relation"
+          Name: "Ujjval Upadhyay",
+          Domain: "PR and Marketing"
         },
         {
           id: "11",
-          Name: "Raj Joshi",
-          Domain: "Media And Public Relation"
+          Name: "Gaytri Sonwani",
+          Domain: "Sports Coordinator"
         },
         {
           id: "12",
-          Name: "Om Shukla",
-          Domain: "Media And Public Relation"
+          Name: "Aastha Kashyap",
+          Domain: "Event Management"
         },
         {
           id: "13",
-          Name: "Shrajeet Bhardwaz",
-          "Domain": "Media And Public Relation"
+          Name: "Vedant Bani",
+          "Domain": "Event Management"
         },
             {
               id: "14",
-              Name: "Tridev Maurya",
-              Domain: "Sponsorship"
+              Name: "Sambhab Mohapatra",
+              Domain: "Sports Coordinator"
             },
             {
               id: "15",
-              Name: "Ayush Kumar Singh",
-              Domain: "Sponsorship"
+              Name: "Sahil Singh",
+              Domain: "Sports Coordinator"
             },
             {
               id: "16",
-              Name: "Mahika Verma",
-              Domain: "Sponsorship"
+              Name: "Ayush Sharma",
+              Domain: "Sports Coordinator"
             },
             {
               id: "17",
-              Name: "Shivam Vyas",
-              Domain: "Sponsorship"
+              Name: "Anshika Sharma",
+              Domain: "PR and Marketing"
             },
             {
               id: "18",
-              Name: "Aadarsh Richariya",
-              Domain: "Sponsorship"
+              Name: "Surabhi Sahu",
+              Domain: "PR and Marketing"
             },
             {
               id: "19",
-              Name: "Anshu Sharma",
+              Name: "Aman Mishra",
               Domain: "Sponsorship"
             },
             {
               id: "20",
-              Name: "Akash Pathak",
-              Domain: "Sponsorship"
+              Name: "Nikhil Kumar Sahu",
+              Domain: "Sports Coordinator"
             },
             {
               id: "21",
-              Name: "Palak",
-              Domain: "Sponsorship"
+              Name: "Ayush Kumar Shukla",
+              Domain: "Sports Coordinator"
             },
             {
               id: "22",
-              Name: "Om Prakash",
-              Domain: "Sponsorship"
+              Name: "Satyam Kumar",
+              Domain: "Sports Coordinator"
             },
                 {
                   id: "23",
-                  Name: "Ajit Kumar",
-                  Domain: "Event Management"
+                  Name: "Vikas Budania",
+                  Domain: "Sports Coordinator"
                 },
                 {
                   id: "24",
-                  Name: "Muskan Sarkar",
-                  Domain: "Event Management"
+                  Name: "Nikhil Painkara",
+                  Domain: "Design"
                 },
                 {
                   id: "25",
-                  Name: "Aditya Kaushik",
-                  Domain: "Event Management"
+                  Name: "Subhashree Behera",
+                  Domain: "Sponsorship"
                 },
                 {
                   id: "26",
-                  Name: "Adarsh Kumar",
-                  Domain: "Event Management"
+                  Name: "Mayank Raj",
+                  Domain: "Video Editing and Cinematography"
                 },
                 {
                   id: "27",
-                  Name: "Ninad Kasture",
+                  Name: "Ashish Patel",
                   Domain: "Event Management"
                 },
                 {
                   id: "28",
-                  Name: "Sneha Kumar",
-                  Domain: "Event Management"
+                  Name: "Piyush Verma",
+                  Domain: "Sponsorship"
                 },
                 {
                   id: "29",
-                  Name: "Lucky Dewangan",
-                  Domain: "Event Management"
+                  Name: "Nirjala Kumari",
+                  Domain: "Sports Coordinator"
                 },
                 {
                   id: "30",
-                  Name: "Shivansh Satpure",
-                  Domain: "Event Management"
+                  Name: "Umesh Meena",
+                  Domain: "Sports Coordinator"
                 },
                 {
                   id: "31",
-                  Name: "Apoorva Kumar Sahu",
-                  Domain: "Event Management"
+                  Name: "Veena Gupta",
+                  Domain: "Sports Coordinator"
                 },
                 {
                   id: "32",
-                  Name: "Nihit Gupta",
-                  Domain: "Event Management"
+                  Name: "Mohd Shezan",
+                  Domain: "Sports Coordinator"
                 },
                 {
                   id: "33",
-                  Name: "Udit Jha",
+                  Name: "Inder",
                   Domain: "Event Management"
                 },
                 {
                   id: "34",
-                  Name: "Aviraj Meher",
-                  Domain: "Event Management"
+                  Name: "Parth Dubey",
+                  Domain: "Sponsorship"
                 },
                 {
                   id: "35",
-                  Name: "Tanay Ghatge",
-                  Domain: "Event Management"
+                  Name: "Abhishek Kumar",
+                  Domain: "PR and Marketing"
                 },
                 {
                     id: "36",
-                    Name: "Aishanya Mishra",
-                    Domain: "Event Management"
+                    Name: "Abhyudaya Chaudhary",
+                    Domain: "Sports Coordinator"
                   }, 
                     {
                       id: "37",
-                      Name: "Priyanshi Yadav",
-                      Domain: "Design And Editing"
+                      Name: "Mohd Saqlain Khan",
+                      Domain: "Sports Coordinator"
                     },
                     {
                       id: "38",
-                      Name: "Diksha Mangrani",
-                      Domain: "Design And Editing"
+                      Name: "Shubham Kumar",
+                      Domain: "Video Editing and Cinematography"
                     },
                     {
                       id: "39",
-                      Name: "Prafulla Mishra",
-                      Domain: "Design And Editing"
+                      Name: "Ayush Singh",
+                      Domain: "Sports Coordinator"
                     },
                     {
                       id: "40",
-                      Name: "Ajeet Kumar",
-                      Domain: "Design And Editing"
+                      Name: "Mayank",
+                      Domain: "Event Management"
                     },
                     {
                       id: "41",
-                      Name: "Akshat Jain",
-                      Domain: "Design And Editing"
+                      Name: "Vishu Ashish",
+                      Domain: "Sports Coordinator"
                     },
                     {
                       id: "42",
-                      Name: "Ankit Pandey",
-                      Domain: "Design And Editing"
+                      Name: "Lishanshu Dewangan",
+                      Domain: "Event Management"
                     },
                     {
                       id: "43",
-                      Name: "Suraj Kumar Singh",
-                      Domain: "Design And Editing"
+                      Name: "Srihitha Hasini",
+                      Domain: "Sports Coordinator"
                     }, {
                         id: "44",
-                        Name: "Ankush Jaiswal",
-                        Domain: "Design And Editing"
+                        Name: "Prajval Bankar",
+                        Domain: "Sports Coordinator"
                       },
                         {
                           id: "55",
-                          Name: "Supriya Mishra",
-                          Domain: "Vigyaan"
+                          Name: "Priyanshu Maurya",
+                          Domain: "Sports Coordinator"
                         },
                         {
                           id: "56",
-                          Name: "Suryanshi Mishra",
-                          Domain: "Vigyaan"
+                          Name: "Abhishek Tripathi",
+                          Domain: "Event Management"
                         },
                         {
                           id: "57",
-                          Name: "Bhoomika Ahuja",
-                          Domain: "Vigyaan"
+                          Name: "Palle Vinay Reddy",
+                          Domain: "Sports Coordinator"
                         },
                         {
                           id: "58",
-                          Name: "Chirag Garg",
-                          Domain: "Vigyaan"
+                          Name: "Ayush Kumar",
+                          Domain: "Event Management"
                         },
                         {
                           id: "59",
-                          Name: "Shruti Kotkar",
-                          Domain: "Vigyaan"
+                          Name: "Nageshwar Kashyap",
+                          Domain: "Sports Coordinator"
                         },
                         {
                           id: "60",
-                          Name: "Aadarsh Singh Rajput",
-                          Domain: "Vigyaan"
+                          Name: "Ashish Kuamr Sahu",
+                          Domain: "Sports Coordinator"
                         },
                         {
                           id: "61",
-                          Name: "Saurabh Mishra",
-                          Domain: "Vigyaan"
+                          Name: "Umang Yadav",
+                          Domain: "Event Management"
                         },
                         {
                           id: "62",
-                          Name: "Anisha Sharma",
-                          Domain: "Vigyaan"
+                          Name: "Sonal Kumar",
+                          Domain: "Sports Coordinator"
                         },
                         {
                           id: "63",
-                          Name: "Anindita",
-                          Domain: "Vigyaan"
+                          Name: "Manash Chandak",
+                          Domain: "Documentation"
                         },
                         {
                           id: "64",
-                          Name: "Md Danish Khan",
-                          Domain: "Vigyaan"
+                          Name: "Arman Sahu",
+                          Domain: "PR and Marketing"
                         },
                         {
                           id: "65",
-                          Name: "Shubhi Joshi",
-                          Domain: "Vigyaan"
+                          Name: "Pragna Gode",
+                          Domain: "Sports Coordinator"
                         },
                             {
                               id: "66",
-                              Name: "Karan Singh",
-                              Domain: "Tech"
+                              Name: "Astha Jaiswal",
+                              Domain: "Event Management"
                             },
                             {
                               id: "67",
-                              Name: "Prabhat Sharma",
-                              Domain: "Tech"
+                              Name: "Hetharth Sachdeva",
+                              Domain: "Sports Coordinator"
                             },
                             {
                               id: "68",
-                              Name: "Mayank Sahu",
-                              Domain: "Tech"
+                              Name: "Abhinav Anand",
+                              Domain: "Sports Coordinator"
                             },
                             {
                               id: "69",
-                              Name: "Nehil Sahu",
-                              Domain: "Tech"
+                              Name: "Abhish Jain",
+                              Domain: "PR and Marketing"
                             },
                             {
                               id: "70",
-                              Name: "B.Deewakar Rao",
-                              Domain: "Tech"
+                              Name: "Vedang Mishra",
+                              Domain: "Sports Coordinator"
                             },
                             {
                               id: "71",
-                              Name: "Anupam Malviya",
-                              Domain: "Tech"
+                              Name: "Avik Mandal",
+                              Domain: "Documentation"
                             },
                                 {
                                   id: "72",
-                                  Name: "Shujjat Khan",
-                                  Domain: "Documentation"
+                                  Name: "Sujal Ahar",
+                                  Domain: "Sports Coordinator"
                                 },
                                 {
                                   id: "73",
-                                  Name: "Kailash Mistry",
-                                  Domain: "Documentation"
+                                  Name: "Akshad Ajay Gajapure",
+                                  Domain: "Sports Coordinator"
                                 },
                                 {
                                   id: "74",
-                                  Name: "Ashish Shukla",
-                                  Domain: "Documentation"
+                                  Name: "Harsh",
+                                  Domain: "Sponsorship"
                                 },
                                 {
                                   id: "75",
-                                  Name: "Tanay Rathi",
+                                  Name: "Arunendra Pratap Singh",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "76",
+                                  Name: "Aditya Kumar",
+                                  Domain: "Design"
+                                },
+                                {
+                                  id: "77",
+                                  Name: "Harsh Veer Barle",
+                                  Domain: "Sponsorship"
+                                },
+                                {
+                                  id: "78",
+                                  Name: "Piyush Verma",
+                                  Domain: "Sponsorship"
+                                },
+                                {
+                                  id: "79",
+                                  Name: "Bhagvat Ram Sahu",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "80",
+                                  Name: "Vanshika Jaiswal",
                                   Domain: "Documentation"
-                                }
+                                },
+                                {
+                                  id: "81",
+                                  Name: "Tanish Dhavale",
+                                  Domain: "Video Editing and Cinematography"
+                                },
+                                {
+                                  id: "82",
+                                  Name: "Nitin Kumar Bharti",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "83",
+                                  Name: "Pratham Malu",
+                                  Domain: "Sponsorship"
+                                },
+                                {
+                                  id: "84",
+                                  Name: "Geetanjali Kanwar",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "85",
+                                  Name: "Rebekah",
+                                  Domain: "Design"
+                                },
+                                {
+                                  id: "86",
+                                  Name: "G Diwakar Reddy",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "87",
+                                  Name: "Pranajal Sahu",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "88",
+                                  Name: "Shatakshi tripathi",
+                                  Domain: "PR and Marketing"
+                                },
+                                {
+                                  id: "89",
+                                  Name: "Sourav Kumar",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "90",
+                                  Name: "Pranjal Kumar Pandey",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "91",
+                                  Name: "Jugal Mehta",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "92",
+                                  Name: "Piyush Nigam",
+                                  Domain: "PR and Marketing"
+                                },
+                                {
+                                  id: "93",
+                                  Name: "Manas Dubey",
+                                  Domain: "PR and Marketing"
+                                },
+                                {
+                                  id: "94",
+                                  Name: "Aniruddha Tiwari",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "95",
+                                  Name: "Vasu Badavath",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "96",
+                                  Name: "Nikhil Painkara",
+                                  Domain: "Design"
+                                },
+                                {
+                                  id: "97",
+                                  Name: "Arjun Bhadauriya",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "98",
+                                  Name: "Sakshi Roy",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "99",
+                                  Name: "Adarsh Kumar",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "100",
+                                  Name: "Ram Teja Soma",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "101",
+                                  Name: "Om Giri",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "102",
+                                  Name: "Devraj Sahu",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "103",
+                                  Name: "Nihal Vyas",
+                                  Domain: "Sponsorship"
+                                },
+                                {
+                                  id: "104",
+                                  Name: "Animesh Kumar",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "105",
+                                  Name: "Khushi Khandekar",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "106",
+                                  Name: "B. Prashant Krishna",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "107",
+                                  Name: "Prashant Shukla",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "108",
+                                  Name: "Prakhar Raj",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "109",
+                                  Name: "Teeja Jain",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "110",
+                                  Name: "Paawan Chandrakar",
+                                  Domain: "PR and Marekting"
+                                },
+                                {
+                                  id: "111",
+                                  Name: "Ayush Sen",
+                                  Domain: "PR and Marekting"
+                                },
+                                {
+                                  id: "112",
+                                  Name: "K V Rajiv Kumar",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "113",
+                                  Name: "Naman Jain",
+                                  Domain: "PR and Marekting"
+                                },
+                                {
+                                  id: "114",
+                                  Name: "Harsh",
+                                  Domain: "Sponsorship"
+                                },
+                                {
+                                  id: "115",
+                                  Name: "Vikas Nagora",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "116",
+                                  Name: "Ashutosh Patel",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "117",
+                                  Name: "Swarnima Dash",
+                                  Domain: "Design"
+                                },
+                                {
+                                  id: "118",
+                                  Name: "Aditya Kumar",
+                                  Domain: "PR and Marketing"
+                                },
+                                {
+                                  id: "119",
+                                  Name: "Shreya Bisen",
+                                  Domain: "PR and Marekting"
+                                },
+                                {
+                                  id: "120",
+                                  Name: "Kuldeep Sharma",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "121",
+                                  Name: "Chhatrapati Raj",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "122",
+                                  Name: "Priya Veda",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "123",
+                                  Name: "Sneha Gupta",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "124",
+                                  Name: "Varun Agrawal",
+                                  Domain: "PR and Marekting"
+                                },
+                                {
+                                  id: "125",
+                                  Name: "Urvi Patel",
+                                  Domain: "PR and Marekting"
+                                },
+                                {
+                                  id: "126",
+                                  Name: "Pawan Yadav",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "127",
+                                  Name: "Rahul Kumar",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "128",
+                                  Name: "Chhavi Rajput",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "129",
+                                  Name: "Ashutosh",
+                                  Domain: "Sponsorship"
+                                },
+                                {
+                                  id: "130",
+                                  Name: "Aditya kale",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "131",
+                                  Name: "Shreya Sarangi",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "132",
+                                  Name: "Mouryan Kosare",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "133",
+                                  Name: "Aditi Singh",
+                                  Domain: "Sponsorship"
+                                },
+                                {
+                                  id: "134",
+                                  Name: "Sneh Chauhan",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "135",
+                                  Name: "Keshaw Sahu",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "136",
+                                  Name: "Rishav Jha",
+                                  Domain: "Sponsorship"
+                                },
+                                {
+                                  id: "137",
+                                  Name: "Aditya Gandharva",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "138",
+                                  Name: "Kritika Tripathi",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "139",
+                                  Name: "Ganga K",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "140",
+                                  Name: "Siddharth Swaoroop",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "141",
+                                  Name: "Aditya Kale",
+                                  Domain: "Event Management"
+                                },
+                                {
+                                  id: "142",
+                                  Name: "Abhay Sankar Kumar",
+                                  Domain: "Sports Coordinator"
+                                },
+                                {
+                                  id: "143",
+                                  Name: "Umesh Meena",
+                                  Domain: "Sports Coordinator"
+                                },
+                                
 
           
       ]
