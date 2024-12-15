@@ -21,7 +21,7 @@ import Abhijeet_Kumar_Singh from "../assets/images/heads/Abhijeet_Kumar_Singh.we
 import Rishav_Gandhi from "../assets/images/heads/Rishav_Gandhi.webp";
 import Shivanshu_Singh from "../assets/images/heads/Shivanshu_Singh.png";
 import Karan_Singh_Raghuvanshi from "../assets/images/heads/Karan_Singh_Raghuvanshi.png";
-// import Ritik_Roshan_Padhi from "../assets/images/heads/Ritik_Roshan_padhi.png";
+import Ritik_Roshan_Padhi from "../assets/images/heads/Ritik_Roshan_Padhi.png";
 import Chaman_Patel from "../assets/images/heads/Chaman_Patel.png";
 import Amardeep_Kumar from "../assets/images/heads/Amardeep_Kumar.jpg"
 import Sakshi_Sahu from "../assets/images/heads/Sakshi_Sahu.jpg"
