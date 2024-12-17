@@ -4,9 +4,9 @@ import { executivesList } from '../assets/executives_data';
 function MyComponent(props) {
   
   return (
-    <div className='executives_data'>
-      <div className='child_data'>
-        <h3>{props.name1}</h3>
+    <div className='executives_data text-slate-100'>
+      <div className='child_data '>
+        <h3 className='text-blue-600'>{props.name1}</h3>
         <ul style={{ listStyleType: 'none', padding: 0 }}>
         {executivesList.map((heads) => {
           if (heads.Domain === props.name1) {
@@ -21,7 +21,7 @@ function MyComponent(props) {
 
       {/* Child 2 */}
       <div className='child_data'>
-        <h3>{props.name2}</h3>
+        <h3 className='text-blue-600'>{props.name2}</h3>
         <ul style={{ listStyleType: 'none', padding: 0 }}>
         {executivesList.map((heads) => {
           if (heads.Domain === props.name2) {
@@ -35,7 +35,7 @@ function MyComponent(props) {
       </div>
       {/* Child 3 */}
       <div className='child_data'>
-        <h3>{props.name3}</h3>
+        <h3 className='text-blue-600'>{props.name3}</h3>
         <ul style={{ listStyleType: 'none', padding: 0 }}>
         {executivesList.map((heads) => {
           if (heads.Domain === props.name3) {

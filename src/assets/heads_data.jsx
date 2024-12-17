@@ -77,7 +77,7 @@ export const coordinatorsList = [
   {
     id: 3,
     name: "Karan Singh Raghuvanshi",
-    imgUrl: Karan_Singh_Raghuvanshi,
+    imgUrl: Shivanshu_Singh,
     linkedinUrl: "https://www.linkedin.com/in/chirag-singhal-a61b40228/",
     instaUrl: "https://instagram.com/1502.chirag?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
     facebookUrl : "#",
@@ -107,8 +107,8 @@ export const coordinatorsList = [
   },
   {
     id: 6,
-    name: "Shreya Borikar",
-    imgUrl: Shreya_Borikar,
+    name: "Shivanshu Singh",
+    imgUrl: Shivanshu_Singh,
     linkedinUrl: "https://www.linkedin.com/in/shreya-borikar-223b75227/",
     instaUrl: "https://instagram.com/shreya1211_?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D",
     facebookUrl : "#",

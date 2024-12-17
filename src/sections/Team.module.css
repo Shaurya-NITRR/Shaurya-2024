@@ -7,6 +7,7 @@
     padding: 7rem 0 0 0;
     align-items: center;
     gap: 2rem;
+    /* background-color: #8B0000; */
 }
 
 .title h1 {
@@ -19,6 +20,13 @@
     grid-template-columns: auto auto;
     column-gap: 12vw;
     row-gap: 6vw;
+    /* background-color: #F0F8FF; */
+    /* background-image: url(https://t4.ftcdn.net/jpg/06/15/06/81/360_F_615068142_3siXSo1TWv7ebrf7OR0XdHurjzkcpJE3.jpg); */
+    /* background-image: url(https://img.freepik.com/free-vector/flat-soccer-football-stadium-illustration_23-2148909913.jpg); */
+    /* background-image: url(https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?cs=srgb&dl=pexels-pixabay-46798.jpg&fm=jpg); */
+    padding: 24px;
+    background-size: 250%;
+    /* width:100%; */
 }
 
 .HeadSection{
@@ -27,6 +35,7 @@
     justify-content: center;
     /* justify-content: space-between; */
     padding: 0 15rem;
+    /* width:100%; */
 }
 .CoreSection{
     padding: 0 15rem;
@@ -35,7 +44,9 @@
         justify-content: space-evenly;
         /* width: 100%; */
 }
-
+.semi-amber{
+    background-color:rgba(12, 12, 12, 0.8);
+}
 .cardStyle{
     height: 34vw;
     width: 28vw;
@@ -112,6 +123,7 @@
     border: 1px solid rgba(255,255,255,.15);
     position: relative;
 	box-shadow: 0px 5px 20px rgba(0,0,0,0.25);
+    background-color: rgba(255,255,255,.15);
 }
 .fn_cs_steps .item_in{
 	height: 100%;
