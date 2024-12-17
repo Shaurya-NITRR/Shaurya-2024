@@ -149,7 +149,8 @@
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: #fed7aa;
+    background-color:rgb(74, 11, 11);
+    /* background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmk6_aF93IuKJgww9H3E1yWzLTNv-bnbUcnA&s) */
   }
   
   code {

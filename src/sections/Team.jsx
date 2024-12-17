@@ -6,7 +6,7 @@ import { coresList } from "../assets/cores_data";
 import OCCard from "../components/OCCard";
 import Title from "../components/Title";
 import Domain from "./Domain";
-import teampic from "../assets/images/teampic.webp"
+import teampic from "../assets/images/teampic.jpg"
 
 const Team = () => {
   return (
@@ -23,19 +23,23 @@ const Team = () => {
           </div>
         </div>
       </div>
+      
       <Title color={"OVERALL"} noncolor={"COORDINATORS"} />
       <div className={styles.OverallHeadSection}>
         {coordinatorsList.map((heads) => {
           if (heads.id <= 6) {
             return (
-              <OCCard
-                key={heads.id}
-                img={heads.imgUrl}
-                name={heads.name}
-                domain={heads.domain}
-                linkedinId={heads.linkedinUrl}
-                InstaId={heads.instaUrl}
-              />
+              <div className="bg-slate-950">
+
+                <OCCard
+                  key={heads.id}
+                  img={heads.imgUrl}
+                  name={heads.name}
+                  domain={heads.domain}
+                  linkedinId={heads.linkedinUrl}
+                  InstaId={heads.instaUrl}
+                />
+              </div>
             );
           }
           return null;
